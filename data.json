@@ -1,6 +1,14 @@
 [ {
         "Session": "2026-27",
         "Category": "Core",
+        "Subject": "Bsuiness Communication",
+        "Chapter": "03 - Introduction",
+        "Topic_Format": "Part 01",
+        "Link": "https://t.me/Graduation_Bytes/16"
+    },
+        {
+        "Session": "2026-27",
+        "Category": "Core",
         "Subject": "Business Organisation",
         "Chapter": "03 - Plant Location",
         "Topic_Format": "Part 04",
